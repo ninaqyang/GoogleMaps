@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController googlePlacesQueryWithCameraPosition:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchBar.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[ViewController googlePlacesQueryWithCameraPosition]_block_invoke_2:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController searchBarSearchButtonClicked:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar.text">
+            </PersistentString>
+            <PersistentString
+               value = "place.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[ViewController googlePlacesSearchQuery]_block_invoke_2:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
